@@ -10,7 +10,7 @@
 ---
 
 ## 📖 Giới thiệu (Introduction)
-Dự án xây dựng mô hình Học máy để dự đoán nguy cơ mắc bệnh tim mạch. Hệ thống bao gồm quy trình phân tích dữ liệu (EDA), tiền xử lý (Preprocessing) và so sánh hiệu quả giữa hai mô hình chính: **Random Forest** và **XGBoost**.
+Dự án xây dựng mô hình Học máy để dự đoán nguy cơ mắc bệnh tim mạch. Hệ thống bao gồm quy trình phân tích dữ liệu (EDA), tiền xử lý (Preprocessing) và so sánh hiệu quả giữa hai mô hình chính: **Random Forest** , **XGBoost** và **Logistic Regression**.
 
 ---
 
