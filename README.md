@@ -21,7 +21,7 @@ Dưới đây là danh sách chi tiết toàn bộ các file trong dự án:
 ```text
 📁 Project-Machine-learning-final
 │
-├── 📁 Random Forest                               # Thư mục chứa mô hình Random Forest
+├── 📁 Random Forest                     # Thư mục chứa mô hình Random Forest
 │   ├── X_test_cardio.csv               # Dữ liệu đặc trưng dùng để test (Input)
 │   ├── feature_importance.csv          # File lưu mức độ quan trọng của các đặc trưng
 │   ├── loaded_model_rf_final.py        # Code Python để load và chạy model RF
