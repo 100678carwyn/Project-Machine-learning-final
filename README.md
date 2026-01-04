@@ -21,7 +21,7 @@ Dưới đây là danh sách chi tiết toàn bộ các file trong dự án:
 ```text
 📁 Project-Machine-learning-final
 │
-├── 📁 RF                               # Thư mục chứa mô hình Random Forest
+├── 📁 Random Forest                               # Thư mục chứa mô hình Random Forest
 │   ├── X_test_cardio.csv               # Dữ liệu đặc trưng dùng để test (Input)
 │   ├── feature_importance.csv          # File lưu mức độ quan trọng của các đặc trưng
 │   ├── loaded_model_rf_final.py        # Code Python để load và chạy model RF
@@ -30,7 +30,7 @@ Dưới đây là danh sách chi tiết toàn bộ các file trong dự án:
 │   ├── rf_model_thresh0.35.zip         # File model RF đã huấn luyện (nén)
 │   └── y_test_cardio.csv               # Nhãn thực tế dùng để đối chiếu (Ground Truth)
 │
-├── 📁 xgboost                          # Thư mục chứa mô hình XGBoost
+├── 📁 XGBoost                          # Thư mục chứa mô hình XGBoost
 │   ├── X_test_fe (1).csv               # Dữ liệu đặc trưng dùng để test (đã Feature Engineering)
 │   ├── feature_importance_loaded.png   # Ảnh biểu đồ mức độ quan trọng của đặc trưng
 │   ├── loaded_model_xgboost (1).py     # Code Python để load và chạy model XGBoost
