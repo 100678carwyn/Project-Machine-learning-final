@@ -37,7 +37,16 @@ Dưới đây là danh sách chi tiết toàn bộ các file trong dự án:
 │   ├── predictions.csv                 # Kết quả dự đoán xuất ra từ model
 │   ├── xgb_model_thresh0.35.pkl        # File model XGBoost đã huấn luyện
 │   └── y_test (1).csv                  # Nhãn thực tế dùng để đối chiếu
-│
+├── 📂 Logistic Regression/
+│   ├── X_train_logistic.xlsx
+│   ├── X_test_logistic.xlsx
+│   ├── y_train_logistic.xlsx
+│   ├── y_test_logistic.xlsx
+│   ├── bang_predict (1).xlsx
+│   ├── predictions_logistic.csv
+│   ├── logistic_model_thresh0.35.pkl
+│   ├── load_and_predict.py
+│   └── threshold_model.py
 ├── EDA (1).ipynb                       # Notebook Phân tích dữ liệu khám phá (EDA)
 ├── FINAL_PROJECT_ML.pdf                # File báo cáo tiểu luận cuối kỳ (PDF)
 ├── README.md                           # File hướng dẫn này
